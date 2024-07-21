@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Madihaj14
-- 👀 I’m interested in programming.
 - 🌱 I’m currently learning Golang.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me: Email me at madihajk14@gmail.com
