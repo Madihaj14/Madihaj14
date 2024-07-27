@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Madihaj14
+- 👋 Hi, I’m Madiha
 - 🌱 I’m currently learning Golang.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me: Email me at madihajk14@gmail.com
