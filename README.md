@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Madiha
+- 👋 Hi, I’m Madiha Khan.
+- 📚 A Final Year B.Tech student from Electronics and Communication branch.
 - 🌱 I’m currently learning Golang.
 - 📫 How to reach me: Email me at madihajk14@gmail.com
 - 😄 Pronouns: She/Her
