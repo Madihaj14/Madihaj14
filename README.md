@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madiha!!!
 - 📚 A Final Year B.Tech student from Electronics and Communication Engineering branch..
-- 🌱 I’m currently learning Golang.
+
 - 📫 Email me at madihajk14@gmail.com
   
 <!---
