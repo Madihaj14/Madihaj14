@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madiha!!!
 - 📚 A Final Year B.Tech student from Electronics and Communication Engineering branch..
-- 🎯 I want to become a Data Scientist!
+- 🎯
   
 <!---
 Madihaj14/Madihaj14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
