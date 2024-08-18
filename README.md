@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Madiha!!!
 - 📚 A Final Year B.Tech student from Electronics and Communication Engineering branch..
 - 🎯 My goal is to become a Data Scientist.
+- 📧 Email me- madihajk14@gmail.com
   
 <!---
 Madihaj14/Madihaj14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
