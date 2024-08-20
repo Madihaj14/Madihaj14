@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madiha!!!
 - 📚 A Final Year B.Tech student from Electronics and Communication Engineering branch..
-- 🎯 My goal is to become a Data Scientist.
+- 🎯 Tryoing to be productive...
 - 📧 Email me- madihajk14@gmail.com
   
 <!---
