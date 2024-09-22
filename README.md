@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madiha!!!
-- 📚 A Final Year B.Tech student from Electronics and Communication branch
+- 📚 A Final Year B.Tech student from Electronics and Communication Engineering branch...
 - 📧 Email me- madihajk14@gmail.com
   
 <!---
