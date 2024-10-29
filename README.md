@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Madiha Khan!!
+- 👋 Hey, I’m Madiha!!
 - 📚 A Final Year B.Tech student from Electronics and Communication Engineering branch
 - 📧 Email me- madiha.k.mk@gmail.com
   
