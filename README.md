@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madihaj14&label=Profile%20views&color=0e75b6&style=flat" alt="madihaj14" /> </p>
 
-- 🔭 Currently, I am building an [Algorithm Visualizer.](https://github.com/Madihaj14/AlgoLearn)
+- 🔭 Currently, I am building [Algorithm Visualizer.](https://github.com/Madihaj14/AlgoLearn)
 
 - 💬 Ask me about **MERN Stack, Vercel and Version Control**
 
